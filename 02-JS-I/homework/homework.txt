@@ -1,0 +1,16 @@
+	* Variables
+	Es un espacio de memoria utilizado para almacenar un valor determinado.
+
+	* Strings
+	Es una cadena de caracteres que siempre se definirán entre comillas.
+
+	* Funciones (argumentos, `return`)
+	Los argumentos son las variables a utilizar en la función.
+
+	El "Return" te muestra el valor de lo solicitado
+
+	* Declaraciones `if`
+	Verifica si se cumple una condición impuesta
+
+	* Valores booleanos (`true`, `false`)
+	Es aquel que puede representar valores de lógica binaria.
